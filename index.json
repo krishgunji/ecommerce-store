@@ -1,0 +1,6 @@
+{
+  "title": "Istio Ubuntu simple",
+  "backend": {
+    "imageid": "ubuntu"
+  }
+}
