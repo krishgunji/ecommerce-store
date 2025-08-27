@@ -1,6 +1,6 @@
 {
-  "title": "Istio Ubuntu simple",
+  "title": "Istio Ubuntu simple with 4GB",
   "backend": {
-    "imageid": "ubuntu"
+    "imageid": "ubuntu-4GB"
   }
 }
